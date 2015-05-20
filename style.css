@@ -1,0 +1,28 @@
+body {
+	background-color: white;
+}
+
+h1 {
+	color: aqua;
+	font-family: verdana, arial, sans-serif;
+	padding-left: 100px;
+	border-width: 2px;
+	border-style: ridge;
+	border-color: black;
+}
+p {
+	color: purple;
+}
+
+nav ul {
+	padding-left: 0;
+	margin-left: 0;
+	background-color: white;
+	width; 100%;
+	float: left;
+}
+
+nav ul li a {
+	padding: 0.2 em 1 em;
+	background-color: 
+}
