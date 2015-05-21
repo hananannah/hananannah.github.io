@@ -4,14 +4,15 @@ body {
 
 h1 {
 	color: aqua;
-	font-family: verdana, arial, sans-serif;
+	font-family: elephant, century, serif;
 	padding-left: 100px;
 	border-width: 2px;
 	border-style: ridge;
 	border-color: black;
 }
 p {
-	color: purple;
+	color: black;
+	font-family
 }
 
 nav ul {
