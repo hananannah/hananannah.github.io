@@ -3,27 +3,49 @@ body {
 }
 
 h1 {
-	color: aqua;
-	font-family: elephant, century, serif;
-	padding-left: 100px;
+	clear: left;
+	color: black;
+	font-size: 200px
+	font-family: elephant, serif;
+	text-align: center;
+	padding-left: 0px;
 	border-width: 2px;
-	border-style: ridge;
-	border-color: black;
+	border-style: solid;
+	margin-bottom: 50px;
 }
+
+
 p {
 	color: black;
-	font-family
+}
+
+nav ul li {
+	display: inline;
 }
 
 nav ul {
 	padding-left: 0;
 	margin-left: 0;
-	background-color: white;
-	width; 100%;
+	background-color: #211A5A;
+	color: White;
 	float: left;
+	width: 100%;
+	margin-top: 0;
+	padding-top: 0;
+	margin-left: 0;
+	padding-left: 0;
 }
 
 nav ul li a {
-	padding: 0.2 em 1 em;
-	background-color: 
+	padding: 0.2em 1em;
+	background-color: #211A5A;
+	color: White;
+	text-decoration: none;
+	float: left;
+	border-right: 1px solid #fff;
+}
+
+nav ul li a:hover {
+	background-color: #595191;
+	color: white;
 }
